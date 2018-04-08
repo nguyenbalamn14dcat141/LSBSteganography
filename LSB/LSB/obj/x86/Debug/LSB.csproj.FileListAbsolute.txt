@@ -1,0 +1,9 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\LSB\bin\Debug\LSB.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\LSB\bin\Debug\LSB.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\LSB\obj\x86\Debug\LSB.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\LSB\obj\x86\Debug\LSB.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\LSB\obj\x86\Debug\LSB.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\LSB\obj\x86\Debug\LSB.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\LSB\obj\x86\Debug\LSB.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\LSB\LSB\obj\x86\Debug\LSB.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\LSB\LSB\obj\x86\Debug\LSB.pdb
